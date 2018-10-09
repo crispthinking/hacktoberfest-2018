@@ -6,7 +6,7 @@ There's two main reasons you might want to open a pull request. Either you have 
 
 ## Finding an Issue
 
-The first step in opening a PR is to find an issue you want to fix. This can either be something that's already known about on the project's issue tracer, or something you've just discovered yourself. Once you know what you want to fix the next step is to write some code.
+The first step in opening a PR is to find an issue you want to fix. This can either be something that's already known about on the project's issue tracker, or something you've just discovered yourself. Once you know what you want to fix the next step is to write some code.
 
 ## Fix it!
 
