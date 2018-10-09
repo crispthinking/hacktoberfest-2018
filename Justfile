@@ -1,3 +1,3 @@
-build:
-    docket
-    cp -r assets build
+build output='build':
+    docket -t {{output}}
+    cp -r assets {{output}}
