@@ -1,5 +1,6 @@
 # Good Hacktoberfest Issues
 
+This is a list of issues which might be good for those newer to Open Source to take a look at. They should offer help if you need it and many are well defined changes to make.
 
 ## Rust
  * <https://github.com/casey/just/issues/341> - Just "Print recipe signature in case of missing arguments"
