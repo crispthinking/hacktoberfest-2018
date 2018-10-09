@@ -19,6 +19,11 @@ This is a list of issues which might be good for those newer to Open Source to t
 
  * <https://github.com/sagesharp/outreachy-django-wagtail/labels/help%20wanted> Outreachy Website
 
+## Documentation / Review
+
+ * <https://medium.freecodecamp.org/i-just-got-my-free-hacktoberfest-shirt-heres-a-quick-way-you-can-get-yours-fa78d6e24307> Free code camp guide
+ * <https://github.com/munificent/craftinginterpreters> Crafting Interpreters Book
+
 ## Good Hacktoberfest GitHub Searches
 
  * <https://github.com/search?q=label:hacktoberfest+state:open+type:issue> Hacktoberfest Issues
