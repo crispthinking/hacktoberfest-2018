@@ -19,6 +19,8 @@ This is a list of issues which might be good for those newer to Open Source to t
 
  * <https://github.com/sagesharp/outreachy-django-wagtail/labels/help%20wanted> Outreachy Website
 
-## All Hacktoberfest Issues
+## Good Hacktoberfest GitHub Searches
 
  * <https://github.com/search?q=label:hacktoberfest+state:open+type:issue> Hacktoberfest Issues
+ * <https://github.com/search?q=label%3Afirst-timers-only+state%3Aopen+type%3Aissue> First timers only!
+ * <https://github.com/search?q=label%3Afor-new-contributors+state%3Aopen+type%3Aissue> For new Contributors
